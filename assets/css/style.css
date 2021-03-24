@@ -1,0 +1,25 @@
+:root {
+  --primary: #53756d;
+  --alternative: #80c2b1;
+  --light: #fff;
+  --dark: #3c4675;
+  --secondary: #6d7cc2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header nav {
+  background-color: var(--secondary);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial,
+    sans-serif;
+  color: var(--primary);
+  background-color: var(--light);
+  line-height: 1.3;
+}
