@@ -26,6 +26,8 @@
 
 ## Usage
 
+![example](./assets/img/portfolio/example.gif)
+
 ## Credits
 
 - <https://css-tricks.com>
