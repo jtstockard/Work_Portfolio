@@ -26,18 +26,13 @@
 
 ## Usage
 
-[top-of-page](assets/images/front-page.png)
-[bottom-of-page](<assets/images/front-page(1).png>)
-
 ## Credits
 
 - <https://css-tricks.com>
 - <https://meyerweb.com/eric/tools/css/reset/>
 - <https://www.w3schools.com/cssref/default.asp>
-- Rigo A. Pinell - <>
+- Rigo A. Pinell - <https://github.com/japinell>
 - Sean McElwain - <https://github.com/sean-mcelwain>
-- Jose Orozco - <>
-- Ernie Rodriguez - <>
 
 ## License
 
